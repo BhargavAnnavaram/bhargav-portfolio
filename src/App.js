@@ -243,12 +243,11 @@ function Experience() {
         {/* PayPal */}
         <div className="timeline-item">
           <h3>Java Full Stack Developer</h3>
-          <p className="timeline-company">PayPal – TX, USA • May 2024 – Present</p>
+          <p className="timeline-company">Charles Schwab – TX, USA • May 2024 – Present</p>
           <ul>
             <li>
-              Contributed to core Java + Spring Boot microservices for PayPal World,
-              enabling interoperability between major global digital wallets
-              (UPI, Tenpay, Mercado Pago) through scalable cloud-native services.
+            Implemented advanced Redis caching strategies, reducing database query load by 60% and accelerating financial transaction processing across distributed systems.Built robust microservices using Java 17, Spring Boot 3+ and Quarkus, enabling high-performance API delivery and improving backend scalability and response times.
+
             </li>
             <li>
               Implemented and optimized REST/RPC APIs in Spring Boot for cross-border
@@ -279,7 +278,7 @@ function Experience() {
         {/* Capgemini */}
         <div className="timeline-item">
           <h3>Software Developer</h3>
-          <p className="timeline-company">Capgemini – India • Aug 2020 – June 2023</p>
+          <p className="timeline-company">Cognizant – India • July 2020 – July 2023</p>
           <ul>
             <li>
               Built high-performance backend microservices with Java 11 and Spring Boot
